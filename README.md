@@ -1,5 +1,5 @@
 
-# Event Management System Dashboard
+# Event Management System 
 
 ![Event Management Banner](https://via.placeholder.com/1200x300?text=Event+Management+System+Dashboard)
 
