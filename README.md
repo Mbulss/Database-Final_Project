@@ -34,13 +34,12 @@ Whether you're organizing corporate events, weddings, or large gatherings, our s
 ## Demo Summary
 
 
-![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/7c0d9d0c-d4ae-4465-9dc9-de91d1559403))
+![Dashboard Screenshot](https://github.com/user-attachments/assets/7c0d9d0c-d4ae-4465-9dc9-de91d1559403)
 *Figure 1: Dashboard Overview*
 
-
-![Clients Screenshot](![image](https://github.com/user-attachments/assets/274740bb-0015-498e-82f3-b7b60646325d)
-)
+![Clients Screenshot](https://github.com/user-attachments/assets/274740bb-0015-498e-82f3-b7b60646325d)
 *Figure 2: Clients Management*
+
 
 ## Technologies Used
 
