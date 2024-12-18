@@ -31,15 +31,16 @@ Whether you're organizing corporate events, weddings, or large gatherings, our s
 - **Secure Data Handling:** Implements validation and error handling to maintain data integrity.
 - **Timestamp Tracking:** Automatically records creation dates for clients to track when records are added.
 
-## Demo
+## Demo Summary
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/7c0d9d0c-d4ae-4465-9dc9-de91d1559403))
 *Figure 1: Dashboard Overview*
 
-![Clients Screenshot](https://via.placeholder.com/800x400?text=Clients+Screenshot)
-*Figure 2: Clients Management*
 
-*Note: Replace the placeholder images with actual screenshots of your application.*
+![Clients Screenshot](![image](https://github.com/user-attachments/assets/274740bb-0015-498e-82f3-b7b60646325d)
+)
+*Figure 2: Clients Management*
 
 ## Technologies Used
 
@@ -58,6 +59,9 @@ Follow these steps to set up and run the Event Management System Dashboard on yo
 - **Python 3.x** installed on your system. [Download Python](https://www.python.org/downloads/)
 - **MySQL Server** installed and running. [Download MySQL](https://dev.mysql.com/downloads/mysql/)
 - **pip** package manager.
+
+### U can check for feature explanations in our report
+https://docs.google.com/document/d/1qVz94tW3citXJQjcb9-FH4b8eF0gkAgHTajqWSHPU48/edit?usp=sharing
 
 ### Step 1: Clone the Repository
 
